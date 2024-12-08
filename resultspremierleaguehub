@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "home_team": "Manchester United",
+      "away_team": "Chelsea",
+      "date": "2024-12-09",
+      "result": "2-1"
+    },
+    {
+      "home_team": "Liverpool",
+      "away_team": "Arsenal",
+      "date": "2024-12-10",
+      "result": "1-1"
+    }
+  ]
+}
